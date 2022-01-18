@@ -1,7 +1,7 @@
 package HTTPSRequestsScala3
 
 /**
- * Created by KaNguy - 05/23/2021
+ * Created by KiyonoKara - 05/23/2021
  * File HTTPSRequestsScala3.Request.scala
  */
 
